@@ -19,7 +19,6 @@ Since protocol handler support is new in Visual Studio 2017 Update 6, we need to
 
 See the full sample [.vsixmanifest file](src/source.extension.vsixmanifest).
 
-
 ## This sample
 The code in this sample contains the concepts:
 
@@ -29,6 +28,8 @@ The code in this sample contains the concepts:
 4. [AsyncPackage class](src/MyPackage.cs) that glues it all together
 
 Follow the links above directly into the source code to see how it is all hooked up.
+
+![Tool Window](art/tool-window.png)
 
 ## Further reading
 Read the docs for all the details surrounding these scenarios.
