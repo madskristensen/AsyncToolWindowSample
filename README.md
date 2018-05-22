@@ -8,6 +8,8 @@ This sample shows how to provide an Async Tool Window in a Visual Studio extensi
 
 Clone the repo to test out the sample in Visual Studio 2017 yourself.
 
+![Tool Window](art/tool-window.png)
+
 ## Specify minimum supported version
 Since protocol handler support is new in Visual Studio 2017 Update 6, we need to specify that our extension requires that version or newer. We do that in the .vsixmanifest file like so:
 
@@ -28,10 +30,6 @@ The code in this sample contains the concepts:
 4. [AsyncPackage class](src/MyPackage.cs) that glues it all together
 
 Follow the links above directly into the source code to see how it is all hooked up.
-
-![Tool Window](art/tool-window.png)
-
-The command to show the tool window is located in **View -> Other Windows -> Sample Tool Window**.
 
 ## Further reading
 Read the docs for all the details surrounding these scenarios.
