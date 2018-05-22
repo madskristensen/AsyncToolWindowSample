@@ -31,6 +31,8 @@ Follow the links above directly into the source code to see how it is all hooked
 
 ![Tool Window](art/tool-window.png)
 
+The command to show the tool window is located in **View -> Other Windows -> Sample Tool Window**.
+
 ## Further reading
 Read the docs for all the details surrounding these scenarios.
 
