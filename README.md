@@ -1,6 +1,6 @@
 # Async Tool Window example
 
-[![Build status](https://ci.appveyor.com/api/projects/status/89s5yj3ya9e1jitg?svg=true)](https://ci.appveyor.com/project/madskristensen/customcommandsample)
+[![Build status](https://ci.appveyor.com/api/projects/status/eo79i4hqbn4jahqx?svg=true)](https://ci.appveyor.com/project/madskristensen/asynctoolwindowsample)
 
 **Applies to Visual Studio 2017.6 and newer**
 
